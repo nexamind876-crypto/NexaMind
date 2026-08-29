@@ -1,0 +1,2 @@
+Step 1 - Copilot integration test file
+Created by GitHub Copilot on 2026-08-29 to validate create/update/delete operations.
