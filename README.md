@@ -1,1 +1,3 @@
 # NexaMind
+
+NexaMind project initialized.
